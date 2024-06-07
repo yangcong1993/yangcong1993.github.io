@@ -6,6 +6,9 @@ title: Blogs
 
 ## Chinese Blogs
 
+### 2025
+不知道
+-------------------
 ### 2024
 
 - [AAAI 2024 温哥华参会实录](https://caihanlin.com/blogs/aaai-24/)
