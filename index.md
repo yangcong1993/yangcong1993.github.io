@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+# 关于我
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
@@ -10,7 +10,7 @@ Here is **Hanlin Cai (Lance, 蔡汉霖)**.
 
 I am a senior undergrad majoring in EECS at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+你好如果你打阿萨法拿到搜放哪是佛就拿进大佛那师傅师范生金佛阿珂集宁师范打卡呢OK了发普莱克斯多方面皮卡, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
 
 ## Academic Background
 
