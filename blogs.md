@@ -10,7 +10,7 @@ title: Blogs
 
 [AAAI 2024 温哥华参会实录](https://caihanlin.com/blogs/aaai-24/)
 
-[一文说清楚fluent初始化](https://github.com/yangcong1993/yangcong1993.github.io/tree/main/blogs/fluent)
+[一文说清楚fluent初始化](https://yangcong1993.github.io/blogs/fluent/)
 
 不知道
 -------------------
