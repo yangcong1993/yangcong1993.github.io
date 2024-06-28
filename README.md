@@ -14,6 +14,12 @@
 
 
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yangcong1993.github.io/yangcong1993.github.io&type=Date)](https://star-history.com/#yangcong1993.github.io/yangcong1993.github.io&Date)
+
+
+
 ## Statement
 
 © 2024 YangCong. Published with [GitHub Pages](https://pages.github.com/), powered by [Jekyll](https://jekyllrb.com/), based on the [Minimal Mistakes](https://mademistakes.com/) theme  Source code for this website can be found [here](https://github.com/GuangLun2000/GuangLun2000.github.io).
