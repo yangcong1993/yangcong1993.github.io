@@ -10,7 +10,7 @@ title: Blogs
 
 [一文说清楚fluent初始化](https://yangcong1993.github.io/blogs/fluent/)
 
-
+[2024-07-01-接触非线性](https://yangcong1993.github.io/blogs/2024-07-01-接触非线性)
 
 <br>
 
