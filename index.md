@@ -12,4 +12,4 @@ layout: page
 行业技术标准，进一步磨练了三维设计软件的技巧，使用有限元分软件，能够胜任 CAE 工程师、流体工程师、非标零件
 设计、机械设计相关工作。
 
-![yangcong](../../../Blog/public/img/index/yangcong.jpg)
+![yangcong](images\yangcong.jpg)
