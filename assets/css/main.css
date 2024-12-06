@@ -3,14 +3,12 @@ audio,canvas,video{display:inline-block;}
 audio:not([controls]){display:none;height:0;}
 [hidden]{display:none;}
 @import url('https://static.zeoseven.com/zsft/95/main/result.css');
-
-body {
-   font-family: "LXGW WenKai GB";
-   font-weight: normal;
-   margin:0;
-}
 html{font-family:"LXGW WenKai GB";-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;}
-
+body {
+    font-family: "LXGW WenKai GB";
+    font-weight: normal;
+    margin:0;
+ }
 a:focus{outline:thin dotted;}
 a:active,a:hover{outline:0;}
 h1{font-size:2em;margin:0.67em 0;}
@@ -50,7 +48,7 @@ table{border-collapse:collapse;border-spacing:0;margin-bottom:1.5em;}
 .clearfix{*zoom:1;}.clearfix:before,.clearfix:after{display:table;content:"";}
 .clearfix:after{clear:both;}
 .unstyled-list{list-style:none;margin-left:0;padding-left:0;}.unstyled-list li{list-style-type:none;}
-@font-face{font-family:"Ampersand";src:local("Georgia"),local("Garamond"),local("Palatino"),local("Book Antiqua");unicode-range:U+270C;}@font-face{font-family:"Ampersand";src:local("Georgia");unicode-range:U+270C;}.ampersand-placeholder{font-family:Verdana,sans-serif;}
+@font-face{font-family:"LXGW WenKai GB";src:local("Georgia"),local("Garamond"),local("Palatino"),local("Book Antiqua");unicode-range:U+270C;}@font-face{font-family:"Ampersand";src:local("Georgia");unicode-range:U+270C;}.ampersand-placeholder{font-family:Verdana,sans-serif;}
 .breakword{word-wrap:break-word;}
 .normal-wrap{word-wrap:normal;}
 .inherit-wrap{word-wrap:auto;}
