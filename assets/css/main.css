@@ -2,8 +2,15 @@ article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,su
 audio,canvas,video{display:inline-block;}
 audio:not([controls]){display:none;height:0;}
 [hidden]{display:none;}
-html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;}
-body{margin:0;}
+@import url('https://static.zeoseven.com/zsft/95/main/result.css');
+
+body {
+   font-family: "LXGW WenKai GB";
+   font-weight: normal;
+   margin:0;
+}
+html{font-family:"LXGW WenKai GB";-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;}
+
 a:focus{outline:thin dotted;}
 a:active,a:hover{outline:0;}
 h1{font-size:2em;margin:0.67em 0;}
