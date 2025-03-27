@@ -1,0 +1,84 @@
+<svg
+        id="iconce.com"
+        width="650"
+        height="35"
+        viewBox="0 0 650 35"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+      >
+      <defs>
+        <linearGradient
+          id="r5"
+          gradientUnits="userSpaceOnUse"
+          gradientTransform="rotate(45)"
+          style="transform-origin:center center"
+        >
+          <animateTransform
+              attributeName="gradientTransform"
+              type="rotate"
+              values="0;360"
+              dur="5s"
+              repeatCount="indefinite"
+            />
+          <stop stop-color="#FFA500">
+            <animate
+                attributeName="stop-color"
+                values="#FFA500;#008080;#FFA500"
+                dur="3s"
+                repeatCount="indefinite"
+              />
+          </stop>
+          <stop offset="1" stop-color="#008080">
+            <animate
+                attributeName="stop-color"
+                values="#008080;#FFA500;#008080"
+                dur="3s"
+                repeatCount="indefinite"
+              />
+          </stop>
+        </linearGradient>
+        <radialGradient
+          id="r6"
+          cx="0"
+          cy="0"
+          r="1"
+          gradientUnits="userSpaceOnUse"
+          gradientTransform="translate(256) rotate(90) scale(512)"
+        >
+          <stop stop-color="white"></stop>
+          <stop offset="1" stop-color="white" stop-opacity="0"></stop>
+        </radialGradient>
+        
+        
+      </defs>
+      <rect
+        id="r4"
+        width="650"
+        height="35"
+        x="0"
+        y="0"
+        rx="8"
+        fill="url(#r5)"
+        stroke="#FFFFFF"
+        stroke-width="0"
+        stroke-opacity="100%"
+        paint-order="stroke"
+        mask="undefined"
+      ></rect>
+      
+      
+      
+      <text
+            x="50%"
+            y="50%"
+            font-size="16"
+            font-family="cursiveLet%27s%20do%20it%20without%20Linux.|%20👮%E2%80%8D♂%EF%B8%8F老实交代：你是来划水的🏊%20%20%20%20还是来摸鱼的🐟"
+            font-weight="600"
+            fill="#FFFFFF"
+            text-anchor="middle"
+            dy="0.35em">
+            ♥️道阻且长，行之将近！♥️| 🔪我的这把刀可是涂满了毒药的毒刃🔪 吸溜··舔👅 ··🤢
+          </text>
+      
+    </svg>
